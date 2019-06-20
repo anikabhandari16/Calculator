@@ -1,0 +1,25 @@
+#numberOne {
+  border-radius: 12%;
+  border: 2px solid
+  
+}
+
+#numberTwo{
+  border-radius: 12%;
+  border: 2px solid
+}
+
+#buttonSum{
+  background-color: blue;
+  color: white
+}
+
+#buttonSum: hover{
+  background-color: yellow;
+  
+}
+
+#buttonMultiply{
+  background-color: blue;
+  color: white
+}
